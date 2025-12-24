@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Media & datasets
+*.mp4
+*.csv
+*.xlsx
+*.zip
+Videos/
+data/
+output/
+
+# ML / DL models (VERY IMPORTANT)
+*.h5
+*.hdf5
+*.weights
+*.pt
+models/
+
+# OS
+.DS_Store
