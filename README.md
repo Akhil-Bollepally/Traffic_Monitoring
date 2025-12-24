@@ -6,8 +6,6 @@
 ## Project Overview
 This project implements a Real-Time Traffic Monitoring System using Deep Learning and Computer Vision techniques, integrated with a Django-based web application.
 
-![Uploading Screenshot (252).png…]()
-
 
 The system analyzes live or recorded traffic video streams to detect vehicles
 and monitor traffic conditions in real time. By leveraging the **YOLO (You Only
