@@ -110,5 +110,4 @@ Models are loaded locally during execution, which follows **standard industry an
 ---
 
 ## Academic Note
-This project is developed as part of an academic curriculum requirement and demonstrates the practical application of **Deep Learning and Computer Vision**  
-in traffic surveillance systems.
+This project is developed as part of an academic curriculum requirement and demonstrates the practical application of **Deep Learning and Computer Vision**in traffic surveillance systems.
